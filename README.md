@@ -1,5 +1,5 @@
 
-# A prototype GUI application that demonstrates how data form the given data set can be formatted, cleaned, and used to generate specific outputs using Python and tkinter.
+# A prototype GUI application that demonstrates how data from the given data set can be formatted, cleaned, and used to generate specific outputs using Python and tkinter.
 
 ## Functional requirements
 The application provides the following functionality:
